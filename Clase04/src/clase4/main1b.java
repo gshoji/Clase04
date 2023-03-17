@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class main1b {
 
+	
+	//Ejer 1b
 	public static void main(String[] args)
 	{
 		int num[]=new int[3];

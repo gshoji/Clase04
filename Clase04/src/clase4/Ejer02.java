@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.io.IOException;
 
-
+//Clase de Ejer02 /2a
 public class Ejer02 {
 
 			String Path;

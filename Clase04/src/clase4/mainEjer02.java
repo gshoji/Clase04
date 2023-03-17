@@ -1,5 +1,7 @@
 package clase4;
 
+
+//Main de Ejer02
 public class mainEjer02 {
 
 	public static void main(String[] args) 

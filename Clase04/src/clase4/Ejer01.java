@@ -1,5 +1,7 @@
 package clase4;
 
+
+//Clase Ejer01a
 public class Ejer01 {
 	int n1;
 	int n2;
